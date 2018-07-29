@@ -1,0 +1,3 @@
+exports.newWord = {
+    wordList:['NARUTO','SASUKE','UZUMAKI','UCHIHA','MADARA','OBITO','KAKASHI','SAKURA','HINATA','NEJI','TSUNADE','KURAMA','HASHIRAMA']
+  };
